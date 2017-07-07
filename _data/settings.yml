@@ -50,20 +50,19 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Star Alliance', folder: 'proj-1', file: 'projects/star-alliance.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Star Alliance', folder: 'star-alliance', file: 'projects/star-alliance.html'}
+- {name: 'Holland at Home', folder: 'hah', file: 'projects/holland-at-home.html'}
+- {name: 'Devry University', folder: 'devry', file: 'projects/devry.html'}
+- {name: 'Dolby Digital', folder: 'dolby', file: 'projects/dolby.html'}
+- {name: 'BMW CTSE', folder: 'bmw', file: 'projects/bmw.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'link', link: 'https://www.douban.com/people/54397745/'}
+- {icon: 'weibo', link: 'http://weibo.com/u/3223825287'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/%E5%87%AF%E5%8D%8E-%E7%8E%8B-19b064a7'}
+- {icon: 'envelope', link: 'mailto:angeler.wang@hotmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
