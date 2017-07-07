@@ -481,7 +481,7 @@ td, th {
  * ------------------------------------	 */
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #333;
+  color: #ba3535;
   font-weight: bold; }
 
 .gigantic {
@@ -560,7 +560,7 @@ body {
   font-size: 14px;
   line-height: 1.6;
   font-family: "Open Sans", sans-serif;
-  color: #666;
+  color: #4c4c4c;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
 
@@ -582,7 +582,7 @@ fieldset {
   h3 {
     padding: 50px 0 50px; } }
 section:nth-child(odd) {
-  background: #e5eaee;
+  background: #dbdbdb;
   padding-bottom: 100px; }
   section:nth-child(odd) h3 {
     color: #d7ae5c; }

@@ -51,10 +51,11 @@ contact: >
 
 projects:
 - {name: 'Star Alliance', folder: 'star-alliance', file: 'projects/star-alliance.html'}
+- {name: 'BMW CTSE', folder: 'bmw', file: 'projects/bmw.html'}
+- {name: 'Getply', folder: 'getply', file: 'projects/getply.html'}
 - {name: 'Holland at Home', folder: 'hah', file: 'projects/holland-at-home.html'}
 - {name: 'Devry University', folder: 'devry', file: 'projects/devry.html'}
 - {name: 'Dolby Digital', folder: 'dolby', file: 'projects/dolby.html'}
-- {name: 'BMW CTSE', folder: 'bmw', file: 'projects/bmw.html'}
 
 #-------------------------------
 # Contact Section
