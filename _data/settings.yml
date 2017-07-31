@@ -61,7 +61,6 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'link', link: 'https://www.douban.com/people/54397745/'}
 - {icon: 'weibo', link: 'http://weibo.com/u/3223825287'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/%E5%87%AF%E5%8D%8E-%E7%8E%8B-19b064a7'}
 - {icon: 'envelope', link: 'mailto:angeler.wang@hotmail.com'}
